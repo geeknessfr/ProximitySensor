@@ -34,7 +34,7 @@ public override void Tick()
 }
 ```
 
-This code is here as an exemple, take care of Tick() which is called 10 times / seconds ! So don't put a chat message here, for exemple, this will flood the chat and i'm sure this is not what you would.
+This code is here as an exemple, take care with Tick() which is called 10 times / second ! So don't put a chat message here, for exemple, this will flood the chat and i'm sure this is not what you would.
 
 
 
